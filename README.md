@@ -64,7 +64,7 @@
     src="https://github-readme-stats.vercel.app/api?username=Eduardoszferreira&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&title_color=8A2BE2"
     height="150"
     alt="stats graph"
-  /><img
+  />  <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardoszferreira&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&title_color=8A2BE2"
     height="150"
     alt="languages graph"
