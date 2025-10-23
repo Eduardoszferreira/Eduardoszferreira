@@ -9,7 +9,7 @@
 ---
 
 <h3 align="center">  👨‍🎓 Proficiências <h3> 
-<hr>
+  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
   <img width="8" />
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
 </div>
 
-### 📚🙇‍♂️ Estudando...
+<h3 align="center">  📚🙇‍♂️ Estudando </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
   <img width="10" />
@@ -49,7 +49,7 @@
 
 ---
 
-### 🧩 Sobre mim
+<h3 align="center">  🧩 Sobre mim </h3>
 - 💼 Desenvolvo com Laravel + MySQL no back e HTML/CSS/JS no front, criando soluções práticas e eficientes.
 - 🧠 Estudo TypeScript pra deixar o front mais robusto e Java pra dominar APIs e fundamentos.
 - ⚙️ Componentização e automação de build/deploy.
