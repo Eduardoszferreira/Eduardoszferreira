@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">  👨‍🎓 Proficiências ! ! ! <h3> 
+<h3 align="center">  👨‍🎓 Proficiências <h3> 
 <hr>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
