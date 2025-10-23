@@ -55,7 +55,8 @@
 - ⚙️ Componentização e automação de build/deploy.
 - 🎯 Meu foco: construir projetos escaláveis com qualidade e performance.
 - 📢 Grande interesse em projetos freelancer. 
-
+ <hr>
+ <br>
 
 <div align="center">
 
