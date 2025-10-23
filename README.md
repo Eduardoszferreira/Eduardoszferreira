@@ -23,7 +23,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
 </div>
-
+<hr>
 <h3 align="center">  📚🙇‍♂️ Estudando </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
