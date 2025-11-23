@@ -33,7 +33,7 @@
 
 ---
 
-### 🌐 Onde me encontrar
+<h3 align="center"> 🌐 Onde me encontrar </h3>
 <div align="center">
   <!-- troque os links abaixo se seus @ forem diferentes -->
   <a href="https://www.linkedin.com/in/eduardoszferreira" target="_blank">
