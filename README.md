@@ -1,9 +1,9 @@
 <h1 align="center">D.Eduardo souza</h1>
 
 <p align="center">
-  <b> — Dev focado em Web. </b><br/>
-  Construo apps com <i>PHP + Laravel</i>, interfaceio com <i>HTML/CSS/JS</i> e banco em <i>MySQL</i>.<br/>
-  Atualmente estudando <i>TypeScript</i> e <i>Java</i> pra elevar o nível do stack. 🚀
+  <b>— Desenvolvedor focado em Web.</b><br/>
+  Crio aplicações e sites utilizando <i>PHP + Laravel</i>, com interfaces em <i>HTML, CSS e JavaScript</i> e banco de dados em <i>MySQL</i>.<br/>
+  No momento, estou aprofundando meus estudos em <i>TypeScript</i> e <i>Java</i> para elevar ainda mais a qualidade do meu stack. 🚀
 </p>
 
 ---
