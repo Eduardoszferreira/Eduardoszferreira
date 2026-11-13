@@ -1,81 +1,39 @@
-<h1 align="center">D.Eduardo souza</h1>
+![Eduardo Souza — Desenvolvedor Web. Banner azul com estrelas e órbitas.](assets/orbita-banner.png)
 
-<p align="center">
-  <b>— Desenvolvedor focado em Web.</b><br/>
-  Crio aplicações e sites utilizando <i>PHP + Laravel</i>, com interfaces em <i>HTML, CSS e JavaScript</i> e banco de dados em <i>MySQL</i>.<br/>
-  No momento, estou aprofundando meus estudos em <i>TypeScript</i> e <i>Java</i> para elevar ainda mais a qualidade do meu stack. 🚀
+Crio aplicações e sites com **PHP e Laravel**, com interfaces em **HTML, CSS e JavaScript** e banco de dados **MySQL**.
+
+---
+
+### 🧩 Stack
+
+<p>
+  <img src="assets/html.svg" height="32" alt="HTML" />
+  <img src="assets/css.svg" height="32" alt="CSS" />
+  <img src="assets/javascript.svg" height="32" alt="JavaScript" />
+  <img src="assets/php.svg" height="32" alt="PHP" />
+  <img src="assets/laravel.svg" height="32" alt="Laravel" />
+  <img src="assets/mysql.svg" height="32" alt="MySQL" />
 </p>
 
 ---
 
-<h3 align="center">  👨‍🎓 Proficiências <h3> 
-  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-</div>
-<hr>
-<h3 align="center">  📚🙇‍♂️ Estudando </h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
-</div>
+### 📘 Estudando
 
----
+Aprofundando meus estudos em **TypeScript** e **Java**, com foco em interfaces mais robustas, APIs e fundamentos.
 
-<h3 align="center"> 🌐 Onde me encontrar </h3>
-<div align="center">
-  <!-- troque os links abaixo se seus @ forem diferentes -->
-  <a href="https://www.linkedin.com/in/eduardoszferreira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/eduardoszferreira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter" />
-  </a>
-  <a href="mailto:eduardoszferreira@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="email" />
-  </a>
-</div>
-
----
-
-<h3 align="center">  🧩 Sobre mim </h3>
-- 💼 Desenvolvo com Laravel + MySQL no back e HTML/CSS/JS no front, criando soluções práticas e eficientes.
-- 🧠 Estudo TypeScript pra deixar o front mais robusto e Java pra dominar APIs e fundamentos.
-- ⚙️ Componentização e automação de build/deploy.
-- 🎯 Meu foco: construir projetos escaláveis com qualidade e performance.
-- 📢 Grande interesse em projetos freelancer. 
- <hr>
- <br>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Eduardoszferreira&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&title_color=8A2BE2"
-    height="150"
-    alt="stats graph"
-  />  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardoszferreira&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&title_color=8A2BE2"
-    height="150"
-    alt="languages graph"
-  />
-
- 
- 
-</div>
-
-
-<!-- Mantém a seção abaixo caso queira contatos rápidos -->
-<p align="center">
-  <i><b>Aberto a colaborações e freelas.<b></i>
+<p>
+  <img src="assets/typescript.svg" height="32" alt="TypeScript — em estudo" />
+  <img src="assets/java.svg" height="32" alt="Java — em estudo" />
 </p>
+
+---
+
+### 🔗 Conecte-se
+
+<p>
+  <a href="https://www.linkedin.com/in/eduardoszferreira"><img src="assets/linkedin.svg" height="30" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/eduardoszferreira"><img src="assets/twitter.svg" height="30" alt="Twitter" /></a>
+  <a href="mailto:eduardoszferreira@proton.me"><img src="assets/email.svg" height="30" alt="Email" /></a>
+</p>
+
+*Aberto a colaborações e freelas.*
