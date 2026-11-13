@@ -1,10 +1,10 @@
-![Eduardo Souza — Desenvolvedor Web. Banner azul com estrelas e órbitas.](assets/orbita-banner.png)
+![Eduardo Souza — Desenvolvedor Web. Universo em prata e cinza-escuro.](assets/universo-prata.png)
 
 Crio aplicações e sites com **PHP e Laravel**, com interfaces em **HTML, CSS e JavaScript** e banco de dados **MySQL**.
 
 ---
 
-### 🧩 Stack
+<h3><img src="assets/heading-stack.svg" width="180" height="36" alt="Stack" /></h3>
 
 <p>
   <img src="assets/html.svg" height="32" alt="HTML" />
@@ -17,7 +17,7 @@ Crio aplicações e sites com **PHP e Laravel**, com interfaces em **HTML, CSS e
 
 ---
 
-### 📘 Estudando
+<h3><img src="assets/heading-estudando.svg" width="210" height="36" alt="Estudando" /></h3>
 
 Aprofundando meus estudos em **TypeScript** e **Java**, com foco em interfaces mais robustas, APIs e fundamentos.
 
@@ -28,7 +28,7 @@ Aprofundando meus estudos em **TypeScript** e **Java**, com foco em interfaces m
 
 ---
 
-### 🔗 Conecte-se
+<h3><img src="assets/heading-contato.svg" width="220" height="36" alt="Conecte-se" /></h3>
 
 <p>
   <a href="https://www.linkedin.com/in/eduardoszferreira"><img src="assets/linkedin.svg" height="30" alt="LinkedIn" /></a>
