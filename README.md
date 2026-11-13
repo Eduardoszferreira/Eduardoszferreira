@@ -1,4 +1,4 @@
-![Eduardo Souza — Desenvolvedor Web. Universo em prata e cinza-escuro.](assets/universo-prata.png)
+![Eduardo Souza — Desenvolvedor Web. Universo prateado com fundo integrado ao GitHub.](assets/universo-premium.png)
 
 Crio aplicações e sites com **PHP e Laravel**, com interfaces em **HTML, CSS e JavaScript** e banco de dados **MySQL**.
 
