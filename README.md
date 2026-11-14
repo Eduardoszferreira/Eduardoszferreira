@@ -1,4 +1,4 @@
-![Eduardo Souza — Desenvolvedor Web. Ilustração de desenvolvimento em azul, cinza e preto, com binários discretos ao fundo.](assets/banner-dev-matrix.png)
+![Eduardo Souza — Desenvolvedor Web. Mesa de trabalho e estudos animada, com vapor do café, brilho no nome e binários discretos.](assets/banner-estudos-animado.png)
 
 Crio aplicações e sites com **PHP e Laravel**, com interfaces em **HTML, CSS e JavaScript** e banco de dados **MySQL**.
 
